@@ -1,0 +1,17 @@
+.swiper {
+    width: 73vw;
+    height: 50vh;
+  }
+
+  .about-pg{
+    display: flex;  
+      
+  }
+
+  .about-pg-title{
+    margin-left: 18%;
+  }
+
+  .about-pg-img{
+    margin: 1% 14%;
+  }

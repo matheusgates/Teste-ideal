@@ -1,0 +1,29 @@
+.phone-top{
+    display: block;
+    background-color: #004688;
+    color: white;
+    text-align: end;
+    padding: 4px 100px 4px 0;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 80%;
+}
+
+.nav-bar-itens{
+    display: flex;
+    list-style: none;
+
+}
+
+.nav-bar-item{
+    margin-left: 5%;
+    font-size: 22px;
+    margin-top: 20%;
+}
+
